@@ -1,4 +1,4 @@
-def find_element_index(array, value_to_find)
+def find_element_index(scale, 3)
   scale = [2,3,4,5]
   count = 0 
   found_value_index = nil
