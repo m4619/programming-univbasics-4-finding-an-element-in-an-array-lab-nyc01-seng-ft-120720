@@ -3,7 +3,7 @@ def find_element_index(array, value_to_find)
   count = 0 
   found_value_index = nil
   while count < scale.length do
-  if scale[count] == 3
+  if scale[count] == 1
     found_value_index == count
     end
   count += 1
