@@ -4,7 +4,7 @@ def find_element_index(array, value_to_find)
   while count < scale.length do
   if scale[count] == 3
     return == count
-    end
+  end
   count += 1
   end
 end
