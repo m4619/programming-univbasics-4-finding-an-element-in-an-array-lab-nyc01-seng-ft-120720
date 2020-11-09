@@ -1,8 +1,8 @@
 def find_element_index(array, value_to_find)
-  scale = [2,3,4,5]
+  hill = [1,2,3,4,5,4,3,2,1]
   count = 0 
-  while count < scale.length do
-  if scale[count] == 3
+  while count < hill.length do
+  if hill[count] == 3
     return == count
   end
   count += 1
